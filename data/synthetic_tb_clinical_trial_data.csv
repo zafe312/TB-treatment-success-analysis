@@ -1,31 +1,31 @@
 PatientID,Regimen,Age,Weight,Sex,SmearGrade,PreviousTreatment,HIV_Positive,VisionDefect,FavourableResponse,UnfavourableResponse,QuiescentAt5Yrs,Relapse,GastroSymptoms,DrugResistance,Compliance,FollowUpMonths
 Sp-1,Split I,38,39.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-2,Split I,30,41.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-2,Split I,30,41.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,12
 Sp-3,Split I,39,43.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-4,Split I,50,45.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-5,Split I,29,33.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,10
-Sp-6,Split I,29,30.5,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-6,Split I,29,30.5,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,32
 Sp-7,Split I,50,48.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-8,Split I,41,42.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-9,Split I,27,35.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-9,Split I,27,35.6,Female,2+/3+,>=15 days,False,False,False,True,False,False,True,None,>75%,48
 Sp-10,Split I,38,50.6,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-11,Split I,27,41.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-12,Split I,27,48.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-11,Split I,27,41.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,39
+Sp-12,Split I,27,48.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,2
 Sp-13,Split I,35,40.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-14,Split I,10,53.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-15,Split I,12,51.9,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-15,Split I,12,51.9,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,36
 Sp-16,Split I,26,38.9,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-17,Split I,20,46.8,Male,0/1+,<15 days,False,False,True,False,True,False,True,H+R,>75%,60
 Sp-18,Split I,36,44.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,27
 Sp-19,Split I,22,49.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-20,Split I,16,34.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
+Sp-20,Split I,16,34.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H+R,>75%,31
 Sp-21,Split I,49,45.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-22,Split I,29,47.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Sp-23,Split I,33,29.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-24,Split I,16,32.8,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-25,Split I,26,27.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-26,Split I,33,38.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-27,Split I,19,45.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-27,Split I,19,45.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,37
 Sp-28,Split I,36,50.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-29,Split I,25,41.0,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-30,Split I,29,51.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -35,46 +35,46 @@ Sp-33,Split I,32,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,Fals
 Sp-34,Split I,20,43.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-35,Split I,41,40.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-36,Split I,18,27.1,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
-Sp-37,Split I,34,39.9,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-37,Split I,34,39.9,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,<=75%,18
 Sp-38,Split I,9,32.0,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-39,Split I,17,44.9,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-40,Split I,34,42.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-40,Split I,34,42.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,34
 Sp-41,Split I,40,34.4,Female,2+/3+,>=15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-42,Split I,34,37.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-42,Split I,34,37.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,12
 Sp-43,Split I,31,33.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-44,Split I,29,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-45,Split I,15,46.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-46,Split I,24,34.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-47,Split I,27,43.8,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-47,Split I,27,43.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,45
 Sp-48,Split I,44,37.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-49,Split I,36,35.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-49,Split I,36,35.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,22
 Sp-50,Split I,12,39.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-51,Split I,36,33.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-52,Split I,28,36.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-53,Split I,24,32.7,Female,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-54,Split I,39,53.3,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-55,Split I,44,40.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-56,Split I,43,36.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-55,Split I,44,40.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,32
+Sp-56,Split I,43,36.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,33
 Sp-57,Split I,22,41.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-58,Split I,28,39.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-58,Split I,28,39.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,36
 Sp-59,Split I,36,39.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,20
-Sp-60,Split I,43,44.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-60,Split I,43,44.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,18
 Sp-61,Split I,26,45.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-62,Split I,30,37.1,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-62,Split I,30,37.1,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,3
 Sp-63,Split I,19,36.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-64,Split I,18,38.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,32
 Sp-65,Split I,41,25.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-66,Split I,48,30.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-67,Split I,31,49.4,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-67,Split I,31,49.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,16
 Sp-68,Split I,44,51.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-69,Split I,36,38.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,5
 Sp-70,Split I,25,44.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,4
-Sp-71,Split I,36,42.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-71,Split I,36,42.5,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,21
 Sp-72,Split I,50,60.5,Female,0/1+,<15 days,False,False,True,False,False,True,False,H,>75%,60
-Sp-73,Split I,32,47.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-73,Split I,32,47.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,51
 Sp-74,Split I,50,39.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-75,Split I,2,34.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-76,Split I,41,30.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-76,Split I,41,30.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,31
 Sp-77,Split I,33,41.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-78,Split I,29,35.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-79,Split I,33,31.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,12
@@ -82,56 +82,56 @@ Sp-80,Split I,9,36.3,Female,2+/3+,<15 days,False,False,True,False,True,False,Tru
 Sp-81,Split I,29,33.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-82,Split I,36,51.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,45
 Sp-83,Split I,49,46.2,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-84,Split I,26,40.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-84,Split I,26,40.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Sp-85,Split I,23,50.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,7
-Sp-86,Split I,26,41.0,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-87,Split I,43,34.9,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-86,Split I,26,41.0,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,46
+Sp-87,Split I,43,34.9,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,32
 Sp-88,Split I,36,50.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-89,Split I,26,44.0,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-90,Split I,38,33.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-91,Split I,33,39.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-90,Split I,38,33.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
+Sp-91,Split I,33,39.3,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,41
 Sp-92,Split I,43,34.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-93,Split I,24,31.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-94,Split I,28,46.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-95,Split I,27,52.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-96,Split I,15,31.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-96,Split I,15,31.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,5
 Sp-97,Split I,35,44.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Sp-98,Split I,35,36.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-99,Split I,32,37.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-98,Split I,35,36.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,27
+Sp-99,Split I,32,37.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Sp-100,Split I,29,36.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-101,Split I,16,34.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-101,Split I,16,34.9,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,40
 Sp-102,Split I,27,40.8,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-103,Split I,28,35.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-104,Split I,23,42.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-105,Split I,30,40.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-106,Split I,37,38.9,Male,2+/3+,<15 days,False,False,True,False,False,True,False,H,>75%,60
+Sp-104,Split I,23,42.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
+Sp-105,Split I,30,40.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,43
+Sp-106,Split I,37,38.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,33
 Sp-107,Split I,54,34.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-108,Split I,34,36.8,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-109,Split I,35,45.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-109,Split I,35,45.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,35
 Sp-110,Split I,31,43.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-111,Split I,10,34.1,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-112,Split I,32,41.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-113,Split I,33,45.4,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-113,Split I,33,45.4,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,46
 Sp-114,Split I,60,29.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-115,Split I,30,44.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-115,Split I,30,44.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,23
 Sp-116,Split I,35,36.2,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,32
 Sp-117,Split I,32,44.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-118,Split I,19,35.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-119,Split I,45,28.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-120,Split I,41,29.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-120,Split I,41,29.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,20
 Sp-121,Split I,41,40.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Sp-122,Split I,22,42.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-123,Split I,48,34.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-124,Split I,16,44.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-124,Split I,16,44.7,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,R,>75%,29
 Sp-125,Split I,39,29.7,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-126,Split I,57,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-127,Split I,21,32.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-126,Split I,57,40.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,25
+Sp-127,Split I,21,32.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,31
 Sp-128,Split I,25,36.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-129,Split I,33,40.8,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-129,Split I,33,40.8,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,2
 Sp-130,Split I,26,34.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-131,Split I,14,38.0,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-132,Split I,33,47.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-133,Split I,20,36.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-131,Split I,14,38.0,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,5
+Sp-132,Split I,33,47.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,27
+Sp-133,Split I,20,36.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,25
 Sp-134,Split I,37,45.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-135,Split I,21,33.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-136,Split I,50,43.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -140,24 +140,24 @@ Sp-138,Split I,28,24.4,Male,0/1+,>=15 days,False,False,True,False,True,False,Tru
 Sp-139,Split I,41,35.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-140,Split I,18,44.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-141,Split I,35,39.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
-Sp-142,Split I,47,42.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-142,Split I,47,42.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,39
 Sp-143,Split I,14,36.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-144,Split I,34,41.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-145,Split I,35,39.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-146,Split I,41,48.1,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-147,Split I,18,42.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,29
 Sp-148,Split I,17,42.7,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-149,Split I,38,37.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-149,Split I,38,37.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,26
 Sp-150,Split I,35,37.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,16
-Sp-151,Split I,35,37.7,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-152,Split I,36,43.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-153,Split I,24,37.8,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-151,Split I,35,37.7,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,35
+Sp-152,Split I,36,43.1,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,20
+Sp-153,Split I,24,37.8,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,46
 Sp-154,Split I,35,42.4,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,3
-Sp-155,Split I,35,54.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-155,Split I,35,54.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,1
 Sp-156,Split I,24,46.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-157,Split I,53,38.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-157,Split I,53,38.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,53
 Sp-158,Split I,37,48.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-159,Split I,18,37.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-159,Split I,18,37.8,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,1
 Sp-160,Split I,40,27.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-161,Split I,21,33.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-162,Split I,41,28.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -166,39 +166,39 @@ Sp-164,Split I,23,40.6,Male,2+/3+,>=15 days,False,False,True,False,True,False,Fa
 Sp-165,Split I,43,51.4,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-166,Split I,37,42.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-167,Split I,41,39.1,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-168,Split I,54,45.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-168,Split I,54,45.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,51
 Sp-169,Split I,29,26.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-170,Split I,23,42.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-171,Split I,22,45.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-171,Split I,22,45.5,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,35
 Sp-172,Split I,23,30.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-173,Split I,31,47.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-174,Split I,36,42.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-175,Split I,35,37.8,Female,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-174,Split I,36,42.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Sp-175,Split I,35,37.8,Female,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,12
 Sp-176,Split I,42,44.6,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-177,Split I,32,55.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-178,Split I,49,41.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,20
-Sp-179,Split I,29,42.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-179,Split I,29,42.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,9
 Sp-180,Split I,63,37.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-181,Split I,39,35.0,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-181,Split I,39,35.0,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,4
 Sp-182,Split I,22,45.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-183,Split I,20,34.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-184,Split I,38,41.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-185,Split I,29,37.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-185,Split I,29,37.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,38
 Sp-186,Split I,40,43.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-187,Split I,37,42.7,Male,2+/3+,<15 days,False,False,True,False,False,True,True,None,<=75%,60
+Sp-187,Split I,37,42.7,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,<=75%,45
 Sp-188,Split I,31,47.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-189,Split I,22,37.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Sp-190,Split I,15,38.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-191,Split I,27,34.1,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-191,Split I,27,34.1,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,57
 Sp-192,Split I,42,37.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-193,Split I,34,43.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-194,Split I,18,45.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-194,Split I,18,45.4,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,<=75%,52
 Sp-195,Split I,34,34.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-196,Split I,36,46.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,53
 Sp-197,Split I,22,49.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-198,Split I,34,43.2,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-198,Split I,34,43.2,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,22
 Sp-199,Split I,33,52.7,Female,0/1+,<15 days,False,False,True,False,False,True,False,R,>75%,60
-Sp-200,Split I,19,35.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-200,Split I,19,35.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,19
 Sp-201,Split I,36,32.4,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-202,Split I,38,28.9,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-203,Split I,44,50.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -206,12 +206,12 @@ Sp-204,Split I,44,44.8,Male,0/1+,<15 days,False,False,True,False,True,False,Fals
 Sp-205,Split I,16,40.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-206,Split I,21,42.3,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,48
 Sp-207,Split I,38,33.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-208,Split I,38,56.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-209,Split I,38,41.3,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-210,Split I,76,41.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-208,Split I,38,56.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,26
+Sp-209,Split I,38,41.3,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,23
+Sp-210,Split I,76,41.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,43
 Sp-211,Split I,39,45.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-212,Split I,45,43.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-213,Split I,43,42.0,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-213,Split I,43,42.0,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,9
 Sp-214,Split I,39,35.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,20
 Sp-215,Split I,28,43.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-216,Split I,41,52.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -219,25 +219,25 @@ Sp-217,Split I,23,49.2,Male,2+/3+,<15 days,False,False,True,False,True,False,Fal
 Sp-218,Split I,29,50.9,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,39
 Sp-219,Split I,26,37.2,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-220,Split I,33,34.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-221,Split I,59,39.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
+Sp-221,Split I,59,39.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,<=75%,15
 Sp-222,Split I,11,40.9,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-223,Split I,40,47.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-224,Split I,13,29.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-225,Split I,27,50.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-225,Split I,27,50.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,11
 Sp-226,Split I,45,39.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-227,Split I,33,37.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-228,Split I,20,33.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Sp-229,Split I,24,29.7,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-230,Split I,40,45.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-230,Split I,40,45.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,38
 Sp-231,Split I,24,41.0,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-232,Split I,34,32.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-233,Split I,33,32.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-234,Split I,25,38.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-235,Split I,57,51.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-236,Split I,39,38.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-236,Split I,39,38.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Sp-237,Split I,9,30.7,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-238,Split I,34,38.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-239,Split I,24,38.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-238,Split I,34,38.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,49
+Sp-239,Split I,24,38.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,42
 Sp-240,Split I,42,23.0,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-241,Split I,23,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-242,Split I,31,39.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -245,86 +245,86 @@ Sp-243,Split I,38,45.0,Female,0/1+,<15 days,False,False,True,False,True,False,Tr
 Sp-244,Split I,42,52.5,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-245,Split I,18,47.8,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-246,Split I,28,38.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-247,Split I,27,33.3,Female,0/1+,<15 days,False,False,True,False,True,False,True,H+R,>75%,60
+Sp-247,Split I,27,33.3,Female,0/1+,<15 days,False,False,False,True,False,False,True,H+R,>75%,54
 Sp-248,Split I,24,57.2,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-249,Split I,52,40.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-249,Split I,52,40.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,56
 Sp-250,Split I,37,40.6,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-251,Split I,17,40.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-251,Split I,17,40.3,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,11
 Sp-252,Split I,43,41.8,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-253,Split I,56,39.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-254,Split I,44,36.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-254,Split I,44,36.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,25
 Sp-255,Split I,15,36.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-256,Split I,26,40.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-257,Split I,47,37.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,38
 Sp-258,Split I,24,35.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-259,Split I,37,41.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-260,Split I,41,38.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-261,Split I,21,50.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-262,Split I,31,23.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-260,Split I,41,38.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,43
+Sp-261,Split I,21,50.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,51
+Sp-262,Split I,31,23.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,53
 Sp-263,Split I,-4,47.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-264,Split I,20,48.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-264,Split I,20,48.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,46
 Sp-265,Split I,29,27.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,<=75%,60
-Sp-266,Split I,18,38.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-266,Split I,18,38.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,24
 Sp-267,Split I,51,38.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,16
-Sp-268,Split I,16,31.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-269,Split I,27,35.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-268,Split I,16,31.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,57
+Sp-269,Split I,27,35.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,13
 Sp-270,Split I,34,33.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-271,Split I,49,51.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-272,Split I,15,46.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-271,Split I,49,51.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,54
+Sp-272,Split I,15,46.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,54
 Sp-273,Split I,45,48.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-274,Split I,32,45.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-274,Split I,32,45.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Sp-275,Split I,21,33.2,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-276,Split I,37,37.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-277,Split I,34,43.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-278,Split I,25,32.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-276,Split I,37,37.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,4
+Sp-277,Split I,34,43.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,11
+Sp-278,Split I,25,32.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,32
 Sp-279,Split I,33,45.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-280,Split I,28,38.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-281,Split I,33,38.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-282,Split I,40,45.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-282,Split I,40,45.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,58
 Sp-283,Split I,50,43.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-284,Split I,18,38.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-285,Split I,57,48.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-285,Split I,57,48.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,54
 Sp-286,Split I,10,33.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-287,Split I,30,44.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-288,Split I,39,44.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Sp-289,Split I,35,38.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-287,Split I,30,44.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,23
+Sp-288,Split I,39,44.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,45
+Sp-289,Split I,35,38.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,23
 Sp-290,Split I,25,42.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-291,Split I,30,32.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-292,Split I,26,46.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-293,Split I,25,39.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-294,Split I,42,37.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-295,Split I,36,47.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-296,Split I,24,35.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-297,Split I,42,31.3,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-296,Split I,24,35.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,25
+Sp-297,Split I,42,31.3,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,54
 Sp-298,Split I,36,30.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-299,Split I,41,44.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-299,Split I,41,44.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,19
 Sp-300,Split I,39,32.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,33
-Sp-301,Split I,22,51.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-302,Split I,26,27.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-301,Split I,22,51.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,36
+Sp-302,Split I,26,27.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Sp-303,Split I,41,51.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-304,Split I,39,41.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-305,Split I,32,39.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-306,Split I,33,37.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-307,Split I,47,43.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-308,Split I,25,40.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-307,Split I,47,43.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
+Sp-308,Split I,25,40.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,3
 Sp-309,Split I,38,47.7,Female,2+/3+,<15 days,False,False,True,False,True,False,True,H,>75%,60
 Sp-310,Split I,30,41.2,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-311,Split I,29,41.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-311,Split I,29,41.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,30
 Sp-312,Split I,45,38.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-313,Split I,41,40.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-314,Split I,41,42.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-314,Split I,41,42.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,45
 Sp-315,Split I,47,29.4,Male,2+/3+,<15 days,False,False,True,False,True,False,True,H,>75%,60
 Sp-316,Split I,32,31.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-317,Split I,40,45.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-318,Split I,28,41.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-318,Split I,28,41.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,25
 Sp-319,Split I,36,39.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-320,Split I,31,40.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-321,Split I,33,42.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-322,Split I,39,37.0,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-323,Split I,23,35.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-324,Split I,56,41.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-324,Split I,56,41.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,53
 Sp-325,Split I,20,34.1,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-326,Split I,18,43.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-326,Split I,18,43.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Sp-327,Split I,45,29.4,Male,0/1+,<15 days,False,False,True,False,True,False,True,H,>75%,60
 Sp-328,Split I,41,47.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-329,Split I,39,43.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -332,21 +332,21 @@ Sp-330,Split I,39,42.2,Male,2+/3+,<15 days,False,False,True,False,True,False,Fal
 Sp-331,Split I,32,46.9,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-332,Split I,22,51.3,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-333,Split I,33,47.1,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-334,Split I,24,28.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-334,Split I,24,28.5,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,17
 Sp-335,Split I,43,32.2,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-336,Split I,30,36.4,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-336,Split I,30,36.4,Female,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,49
 Sp-337,Split I,23,40.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,41
 Sp-338,Split I,28,43.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-339,Split I,37,35.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-340,Split I,26,41.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-341,Split I,23,35.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-342,Split I,35,36.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-343,Split I,35,31.4,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-343,Split I,35,31.4,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,50
 Sp-344,Split I,26,34.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-345,Split I,27,31.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-346,Split I,35,34.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-346,Split I,35,34.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Sp-347,Split I,15,47.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-348,Split I,16,34.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-348,Split I,16,34.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,1
 Sp-349,Split I,24,57.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-350,Split I,30,43.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-351,Split I,36,41.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -365,7 +365,7 @@ Sp-363,Split I,31,52.3,Male,0/1+,<15 days,False,False,True,False,True,False,Fals
 Sp-364,Split I,37,45.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-365,Split I,40,36.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-366,Split I,27,44.6,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-367,Split I,35,46.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-367,Split I,35,46.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,19
 Sp-368,Split I,32,44.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-369,Split I,33,30.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-370,Split I,23,35.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
@@ -377,336 +377,336 @@ Sp-375,Split I,57,31.8,Male,0/1+,<15 days,False,False,True,False,True,False,Fals
 Sp-376,Split I,23,43.0,Female,0/1+,>=15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-377,Split I,42,44.5,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-378,Split I,34,44.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,28
-Sp-379,Split I,57,47.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-379,Split I,57,47.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,29
 Sp-380,Split I,23,45.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,16
 Sp-381,Split I,22,43.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-382,Split I,25,40.0,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-383,Split I,8,29.7,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-384,Split I,26,43.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-385,Split I,23,41.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-385,Split I,23,41.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,31
 Sp-386,Split I,34,42.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
-Sp-387,Split I,36,32.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Sp-388,Split I,54,33.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-387,Split I,36,32.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,37
+Sp-388,Split I,54,33.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
 Sp-389,Split I,43,47.3,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-390,Split I,25,40.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-391,Split I,22,44.9,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-391,Split I,22,44.9,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,46
 Sp-392,Split I,38,40.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-393,Split I,17,40.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-393,Split I,17,40.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,48
 Sp-394,Split I,53,46.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
 Sp-395,Split I,46,37.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-396,Split I,27,41.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-397,Split I,12,37.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,30
 Sp-398,Split I,48,37.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-399,Split I,31,38.5,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-399,Split I,31,38.5,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,22
 Sp-400,Split I,46,41.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-401,Split I,14,37.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-402,Split I,25,48.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-401,Split I,14,37.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,2
+Sp-402,Split I,25,48.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
 Sp-403,Split I,32,34.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-404,Split I,33,39.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-405,Split I,27,37.6,Female,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-405,Split I,27,37.6,Female,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,36
 Sp-406,Split I,39,49.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-407,Split I,20,41.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-1,Split II,34,39.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-407,Split I,20,41.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,26
+Sp-1,Split II,34,39.7,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,45
 Sp-2,Split II,31,37.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-3,Split II,37,32.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-4,Split II,3,37.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-5,Split II,40,42.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-5,Split II,40,42.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Sp-6,Split II,33,40.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-7,Split II,29,41.7,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-8,Split II,56,36.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-9,Split II,24,48.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-10,Split II,27,32.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-11,Split II,55,43.7,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-12,Split II,22,48.2,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-13,Split II,26,43.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-14,Split II,30,39.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-11,Split II,55,43.7,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,7
+Sp-12,Split II,22,48.2,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,8
+Sp-13,Split II,26,43.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,37
+Sp-14,Split II,30,39.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,41
 Sp-15,Split II,42,37.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-16,Split II,34,47.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-16,Split II,34,47.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,58
 Sp-17,Split II,17,31.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-18,Split II,26,34.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-19,Split II,25,37.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-19,Split II,25,37.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Sp-20,Split II,31,48.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-21,Split II,37,43.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-21,Split II,37,43.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
 Sp-22,Split II,37,34.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-23,Split II,12,38.5,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-23,Split II,12,38.5,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,R,>75%,53
 Sp-24,Split II,44,36.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-25,Split II,35,35.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-26,Split II,48,46.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-26,Split II,48,46.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,R,>75%,1
 Sp-27,Split II,37,31.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-28,Split II,45,51.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-29,Split II,37,45.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-30,Split II,47,47.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-31,Split II,38,37.5,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
+Sp-30,Split II,47,47.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,24
+Sp-31,Split II,38,37.5,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,<=75%,21
 Sp-32,Split II,31,39.5,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-33,Split II,58,31.2,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,7
-Sp-34,Split II,42,37.1,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-35,Split II,39,43.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-36,Split II,17,48.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-34,Split II,42,37.1,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,1
+Sp-35,Split II,39,43.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,41
+Sp-36,Split II,17,48.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,3
 Sp-37,Split II,17,33.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-38,Split II,35,38.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-38,Split II,35,38.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,51
 Sp-39,Split II,34,39.5,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
 Sp-40,Split II,25,31.4,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
 Sp-41,Split II,34,44.3,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,<=75%,54
-Sp-42,Split II,50,35.8,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-42,Split II,50,35.8,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,16
 Sp-43,Split II,40,39.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-44,Split II,19,37.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-45,Split II,31,35.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-45,Split II,31,35.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,29
 Sp-46,Split II,23,40.5,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-47,Split II,28,39.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-48,Split II,27,38.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-49,Split II,27,35.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-50,Split II,18,42.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-50,Split II,18,42.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
 Sp-51,Split II,31,51.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-52,Split II,26,41.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-52,Split II,26,41.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,22
 Sp-53,Split II,-1,47.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-54,Split II,56,31.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-54,Split II,56,31.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
 Sp-55,Split II,45,41.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,21
-Sp-56,Split II,28,33.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-57,Split II,32,30.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-56,Split II,28,33.4,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,<=75%,51
+Sp-57,Split II,32,30.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,50
 Sp-58,Split II,19,35.7,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,<=75%,11
 Sp-59,Split II,52,48.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-60,Split II,54,46.7,Male,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-61,Split II,34,42.1,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-60,Split II,54,46.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,7
+Sp-61,Split II,34,42.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,42
 Sp-62,Split II,44,30.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-63,Split II,34,39.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-64,Split II,17,42.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
-Sp-65,Split II,27,41.6,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-65,Split II,27,41.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,48
 Sp-66,Split II,34,28.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-67,Split II,27,34.7,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-68,Split II,29,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-69,Split II,31,44.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-70,Split II,31,26.2,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-71,Split II,33,39.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-72,Split II,20,41.4,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-73,Split II,24,46.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-74,Split II,17,45.0,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-75,Split II,43,44.3,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-76,Split II,8,35.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-68,Split II,29,40.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,18
+Sp-69,Split II,31,44.0,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,35
+Sp-70,Split II,31,26.2,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,20
+Sp-71,Split II,33,39.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
+Sp-72,Split II,20,41.4,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,5
+Sp-73,Split II,24,46.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,13
+Sp-74,Split II,17,45.0,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,51
+Sp-75,Split II,43,44.3,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,H,>75%,12
+Sp-76,Split II,8,35.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,55
 Sp-77,Split II,45,28.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-78,Split II,48,37.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-79,Split II,29,47.0,Male,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,6
 Sp-80,Split II,2,49.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-81,Split II,28,45.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-82,Split II,31,43.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-83,Split II,20,43.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-83,Split II,20,43.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,48
 Sp-84,Split II,26,36.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-85,Split II,50,39.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-86,Split II,40,51.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-87,Split II,21,34.4,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-87,Split II,21,34.4,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,4
 Sp-88,Split II,14,51.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-89,Split II,28,38.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-90,Split II,30,49.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-91,Split II,38,31.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-91,Split II,38,31.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,40
 Sp-92,Split II,26,44.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-93,Split II,38,35.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-94,Split II,54,31.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
+Sp-94,Split II,54,31.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H+R,>75%,15
 Sp-95,Split II,41,41.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,53
-Sp-96,Split II,31,47.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-96,Split II,31,47.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,35
 Sp-97,Split II,30,35.0,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,49
-Sp-98,Split II,28,30.8,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-98,Split II,28,30.8,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,43
 Sp-99,Split II,46,39.9,Male,0/1+,<15 days,False,False,True,False,True,False,True,H,<=75%,60
-Sp-100,Split II,25,39.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-100,Split II,25,39.9,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,37
 Sp-101,Split II,33,44.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-102,Split II,33,46.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-102,Split II,33,46.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,42
 Sp-103,Split II,26,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-104,Split II,16,52.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-105,Split II,36,42.0,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,14
 Sp-106,Split II,31,38.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-107,Split II,38,30.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-107,Split II,38,30.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,53
 Sp-108,Split II,26,38.8,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-109,Split II,46,38.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-110,Split II,22,46.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-111,Split II,52,43.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-112,Split II,12,32.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-110,Split II,22,46.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,12
+Sp-111,Split II,52,43.5,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,<=75%,33
+Sp-112,Split II,12,32.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,24
 Sp-113,Split II,37,41.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-114,Split II,37,44.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-115,Split II,23,50.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Sp-116,Split II,37,46.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-114,Split II,37,44.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,5
+Sp-115,Split II,23,50.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,38
+Sp-116,Split II,37,46.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,30
 Sp-117,Split II,47,45.4,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-118,Split II,7,40.9,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,43
-Sp-119,Split II,38,43.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-120,Split II,3,48.6,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
-Sp-121,Split II,21,31.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-122,Split II,51,38.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-119,Split II,38,43.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,40
+Sp-120,Split II,3,48.6,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,<=75%,7
+Sp-121,Split II,21,31.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,36
+Sp-122,Split II,51,38.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,38
 Sp-123,Split II,25,35.5,Male,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-124,Split II,19,43.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-125,Split II,30,48.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-125,Split II,30,48.5,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,15
 Sp-126,Split II,56,36.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-127,Split II,11,25.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-128,Split II,20,37.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-129,Split II,49,46.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-130,Split II,53,44.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,44
-Sp-131,Split II,31,43.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-131,Split II,31,43.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,48
 Sp-132,Split II,18,38.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-133,Split II,56,32.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-134,Split II,50,43.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-135,Split II,40,35.1,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-134,Split II,50,43.8,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,45
+Sp-135,Split II,40,35.1,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,43
 Sp-136,Split II,23,54.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,49
-Sp-137,Split II,31,44.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
+Sp-137,Split II,31,44.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,<=75%,21
 Sp-138,Split II,30,36.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-139,Split II,36,36.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-139,Split II,36,36.5,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Sp-140,Split II,49,39.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,42
-Sp-141,Split II,42,38.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-142,Split II,20,47.8,Female,0/1+,>=15 days,False,False,True,False,True,False,False,R,<=75%,60
+Sp-141,Split II,42,38.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Sp-142,Split II,20,47.8,Female,0/1+,>=15 days,False,False,False,True,False,False,False,R,<=75%,16
 Sp-143,Split II,48,41.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-144,Split II,36,35.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-145,Split II,40,52.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-144,Split II,36,35.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,42
+Sp-145,Split II,40,52.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,4
 Sp-146,Split II,49,40.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-147,Split II,19,45.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
 Sp-148,Split II,32,36.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-149,Split II,26,42.9,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-150,Split II,14,42.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-151,Split II,36,28.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-152,Split II,61,53.6,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-152,Split II,61,53.6,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,9
 Sp-153,Split II,11,48.9,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
 Sp-154,Split II,32,37.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-155,Split II,39,33.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-156,Split II,33,42.8,Male,0/1+,<15 days,False,False,True,False,True,False,True,H+R,>75%,60
-Sp-157,Split II,31,41.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-155,Split II,39,33.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,56
+Sp-156,Split II,33,42.8,Male,0/1+,<15 days,False,False,False,True,False,False,True,H+R,>75%,52
+Sp-157,Split II,31,41.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,43
 Sp-158,Split II,17,42.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-159,Split II,35,41.7,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-159,Split II,35,41.7,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,7
 Sp-160,Split II,23,43.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-161,Split II,7,49.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-161,Split II,7,49.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,42
 Sp-162,Split II,46,44.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-163,Split II,43,33.7,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-163,Split II,43,33.7,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,5
 Sp-164,Split II,33,49.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-165,Split II,35,51.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-166,Split II,44,61.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-165,Split II,35,51.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,11
+Sp-166,Split II,44,61.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,41
 Sp-167,Split II,35,33.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-168,Split II,42,42.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-169,Split II,29,27.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-169,Split II,29,27.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,41
 Sp-170,Split II,47,44.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,54
-Sp-171,Split II,36,36.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-171,Split II,36,36.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,R,>75%,30
 Sp-172,Split II,34,53.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-173,Split II,17,35.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-174,Split II,35,29.5,Male,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,46
 Sp-175,Split II,22,37.4,Male,0/1+,<15 days,False,False,True,False,True,False,True,H,>75%,60
-Sp-176,Split II,25,27.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-177,Split II,23,45.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-178,Split II,20,27.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-176,Split II,25,27.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,50
+Sp-177,Split II,23,45.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,21
+Sp-178,Split II,20,27.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,6
 Sp-179,Split II,56,40.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-180,Split II,47,27.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-181,Split II,54,38.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-182,Split II,18,51.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-182,Split II,18,51.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
 Sp-183,Split II,33,42.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-184,Split II,17,34.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-185,Split II,24,40.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-186,Split II,21,40.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-187,Split II,46,43.6,Male,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-188,Split II,27,31.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-187,Split II,46,43.6,Male,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,26
+Sp-188,Split II,27,31.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,18
 Sp-189,Split II,44,44.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-190,Split II,39,22.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-191,Split II,58,36.4,Female,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-191,Split II,58,36.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,9
 Sp-192,Split II,15,37.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-193,Split II,46,44.6,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-194,Split II,45,40.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-193,Split II,46,44.6,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,31
+Sp-194,Split II,45,40.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,49
 Sp-195,Split II,21,31.4,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-196,Split II,44,34.1,Male,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-196,Split II,44,34.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,55
 Sp-197,Split II,36,41.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,23
 Sp-198,Split II,29,40.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-199,Split II,23,36.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-199,Split II,23,36.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,41
 Sp-200,Split II,24,37.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-201,Split II,56,45.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-202,Split II,32,37.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-203,Split II,41,39.9,Male,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-204,Split II,23,54.6,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-202,Split II,32,37.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
+Sp-203,Split II,41,39.9,Male,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,47
+Sp-204,Split II,23,54.6,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,3
 Sp-205,Split II,23,31.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-206,Split II,44,28.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-207,Split II,16,45.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-207,Split II,16,45.6,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,3
 Sp-208,Split II,27,36.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-209,Split II,32,38.4,Male,0/1+,>=15 days,False,False,True,False,False,True,False,H,>75%,60
-Sp-210,Split II,33,35.4,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-211,Split II,30,38.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-212,Split II,37,50.9,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-209,Split II,32,38.4,Male,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,4
+Sp-210,Split II,33,35.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,24
+Sp-211,Split II,30,38.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,31
+Sp-212,Split II,37,50.9,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,45
 Sp-213,Split II,40,45.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-214,Split II,40,46.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-215,Split II,21,31.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-216,Split II,29,33.0,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-217,Split II,46,22.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-218,Split II,42,35.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Sp-219,Split II,16,46.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-216,Split II,29,33.0,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,11
+Sp-217,Split II,46,22.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,37
+Sp-218,Split II,42,35.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,1
+Sp-219,Split II,16,46.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,9
 Sp-220,Split II,36,43.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
 Sp-221,Split II,9,39.1,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-222,Split II,33,40.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-223,Split II,54,36.0,Male,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-224,Split II,21,41.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-224,Split II,21,41.8,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,47
 Sp-225,Split II,22,45.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-226,Split II,41,30.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-227,Split II,14,42.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-226,Split II,41,30.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,53
+Sp-227,Split II,14,42.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,31
 Sp-228,Split II,25,46.6,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,26
 Sp-229,Split II,39,37.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,23
 Sp-230,Split II,25,45.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-231,Split II,29,58.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-232,Split II,41,39.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-232,Split II,41,39.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,8
 Sp-233,Split II,37,43.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-234,Split II,35,35.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-235,Split II,28,41.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-235,Split II,28,41.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,22
 Sp-236,Split II,36,43.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-237,Split II,31,41.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-238,Split II,37,33.9,Male,0/1+,<15 days,False,False,True,False,True,False,True,R,>75%,60
+Sp-237,Split II,31,41.8,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,59
+Sp-238,Split II,37,33.9,Male,0/1+,<15 days,False,False,False,True,False,False,True,R,>75%,41
 Sp-239,Split II,26,41.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-240,Split II,30,50.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-241,Split II,21,43.4,Female,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-242,Split II,32,46.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-242,Split II,32,46.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,20
 Sp-243,Split II,23,39.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-244,Split II,19,45.4,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-244,Split II,19,45.4,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,47
 Sp-245,Split II,35,42.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-246,Split II,34,34.3,Male,2+/3+,<15 days,False,False,True,False,True,False,True,H,<=75%,60
 Sp-247,Split II,41,42.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-248,Split II,27,34.1,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-249,Split II,37,36.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-250,Split II,38,41.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-251,Split II,37,42.4,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Sp-250,Split II,38,41.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,58
+Sp-251,Split II,37,42.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,19
 Sp-252,Split II,23,32.8,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-253,Split II,34,47.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-254,Split II,36,44.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-255,Split II,32,35.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-254,Split II,36,44.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,38
+Sp-255,Split II,32,35.9,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,12
 Sp-256,Split II,8,30.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-257,Split II,34,39.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-257,Split II,34,39.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,27
 Sp-258,Split II,57,37.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-259,Split II,28,41.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-259,Split II,28,41.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Sp-260,Split II,24,38.1,Male,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-261,Split II,36,27.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-262,Split II,36,38.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,1
 Sp-263,Split II,46,38.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-264,Split II,18,44.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-264,Split II,18,44.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,28
 Sp-265,Split II,40,36.0,Female,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-266,Split II,39,51.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-267,Split II,30,28.1,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-266,Split II,39,51.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,3
+Sp-267,Split II,30,28.1,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,51
 Sp-268,Split II,36,49.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-269,Split II,44,39.0,Male,2+/3+,>=15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-270,Split II,42,46.1,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-271,Split II,19,41.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-272,Split II,41,47.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-273,Split II,31,38.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-269,Split II,44,39.0,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,52
+Sp-270,Split II,42,46.1,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,34
+Sp-271,Split II,19,41.0,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,32
+Sp-272,Split II,41,47.9,Male,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,29
+Sp-273,Split II,31,38.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,25
 Sp-274,Split II,33,33.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-275,Split II,33,49.7,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-276,Split II,30,39.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-277,Split II,46,41.9,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-276,Split II,30,39.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,8
+Sp-277,Split II,46,41.9,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,19
 Sp-278,Split II,31,48.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-279,Split II,19,33.8,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-280,Split II,27,44.4,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-279,Split II,19,33.8,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,47
+Sp-280,Split II,27,44.4,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,42
 Sp-281,Split II,34,36.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-282,Split II,46,39.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-283,Split II,39,41.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-283,Split II,39,41.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,33
 Sp-284,Split II,22,30.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-285,Split II,61,35.4,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-286,Split II,35,49.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-285,Split II,61,35.4,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,45
+Sp-286,Split II,35,49.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,46
 Sp-287,Split II,47,46.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-288,Split II,30,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-289,Split II,38,42.1,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-290,Split II,42,38.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-291,Split II,46,49.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-291,Split II,46,49.3,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,10
 Sp-292,Split II,44,39.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-293,Split II,42,42.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-293,Split II,42,42.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Sp-294,Split II,28,47.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-295,Split II,25,35.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
 Sp-296,Split II,36,50.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Sp-297,Split II,43,30.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-298,Split II,29,51.1,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Sp-299,Split II,44,38.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-300,Split II,49,38.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-301,Split II,21,28.2,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-300,Split II,49,38.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,32
+Sp-301,Split II,21,28.2,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,37
 Sp-302,Split II,22,37.5,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-303,Split II,30,33.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-304,Split II,36,36.6,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -717,43 +717,43 @@ Sp-308,Split II,32,42.5,Male,2+/3+,<15 days,False,False,True,False,True,False,Fa
 Sp-309,Split II,15,33.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-310,Split II,17,34.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-311,Split II,35,52.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-312,Split II,7,35.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-312,Split II,7,35.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,1
 Sp-313,Split II,44,51.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Sp-314,Split II,30,38.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-315,Split II,69,40.5,Male,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-316,Split II,59,47.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-317,Split II,30,48.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-318,Split II,31,39.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-315,Split II,69,40.5,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,21
+Sp-316,Split II,59,47.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,11
+Sp-317,Split II,30,48.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Sp-318,Split II,31,39.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,51
 Sp-319,Split II,43,38.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-320,Split II,52,40.1,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-321,Split II,13,42.7,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-320,Split II,52,40.1,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,44
+Sp-321,Split II,13,42.7,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,44
 Sp-322,Split II,11,46.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-323,Split II,25,40.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-324,Split II,39,44.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-323,Split II,25,40.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,34
+Sp-324,Split II,39,44.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,34
 Sp-325,Split II,38,51.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
 Sp-326,Split II,44,43.0,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Sp-327,Split II,18,42.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-328,Split II,5,30.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-329,Split II,42,23.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-330,Split II,22,43.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-331,Split II,9,39.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-330,Split II,22,43.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,16
+Sp-331,Split II,9,39.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,10
 Sp-332,Split II,34,37.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-333,Split II,41,42.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-333,Split II,41,42.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,2
 Sp-334,Split II,31,40.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-335,Split II,27,47.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-336,Split II,30,41.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-337,Split II,28,35.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-338,Split II,16,46.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-339,Split II,24,39.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-340,Split II,38,43.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-341,Split II,36,37.4,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-336,Split II,30,41.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,6
+Sp-337,Split II,28,35.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,19
+Sp-338,Split II,16,46.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,59
+Sp-339,Split II,24,39.1,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,53
+Sp-340,Split II,38,43.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
+Sp-341,Split II,36,37.4,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,51
 Sp-342,Split II,34,36.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-343,Split II,21,41.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-343,Split II,21,41.0,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Sp-344,Split II,30,40.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,10
-Sp-345,Split II,7,43.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Sp-345,Split II,7,43.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,3
 Sp-346,Split II,34,38.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-347,Split II,48,28.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-348,Split II,15,37.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-347,Split II,48,28.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,29
+Sp-348,Split II,15,37.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Sp-349,Split II,25,45.7,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-350,Split II,36,38.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,23
 Sp-351,Split II,46,38.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -761,280 +761,280 @@ Sp-352,Split II,27,46.9,Female,2+/3+,<15 days,False,False,True,False,True,False,
 Sp-353,Split II,24,35.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,19
 Sp-354,Split II,9,30.5,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-355,Split II,33,39.5,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-356,Split II,55,37.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-357,Split II,35,34.2,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-356,Split II,55,37.4,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,10
+Sp-357,Split II,35,34.2,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,47
 Sp-358,Split II,32,39.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-359,Split II,36,43.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,55
-Sp-360,Split II,32,40.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-361,Split II,23,42.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-362,Split II,41,52.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-363,Split II,35,38.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-360,Split II,32,40.4,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,2
+Sp-361,Split II,23,42.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,3
+Sp-362,Split II,41,52.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,7
+Sp-363,Split II,35,38.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,55
 Sp-364,Split II,32,42.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-365,Split II,21,37.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-366,Split II,47,35.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-367,Split II,40,36.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-367,Split II,40,36.7,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,19
 Sp-368,Split II,26,37.4,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-369,Split II,44,42.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-370,Split II,26,55.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-369,Split II,44,42.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,17
+Sp-370,Split II,26,55.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,28
 Sp-371,Split II,23,35.8,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-372,Split II,23,37.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-373,Split II,12,40.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-374,Split II,37,43.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-374,Split II,37,43.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,20
 Sp-375,Split II,11,42.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-376,Split II,18,48.8,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-377,Split II,8,24.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-378,Split II,31,25.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-377,Split II,8,24.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,43
+Sp-378,Split II,31,25.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,11
 Sp-379,Split II,30,37.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-380,Split II,28,47.6,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-381,Split II,20,30.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-381,Split II,20,30.3,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
 Sp-382,Split II,19,21.0,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,<=75%,54
-Sp-383,Split II,37,44.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-384,Split II,26,42.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Sp-383,Split II,37,44.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,50
+Sp-384,Split II,26,42.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,28
 Sp-385,Split II,36,33.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-386,Split II,22,34.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-387,Split II,34,34.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-388,Split II,47,41.2,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-389,Split II,39,36.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-389,Split II,39,36.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,55
 Sp-390,Split II,27,43.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Sp-391,Split II,35,21.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-392,Split II,29,34.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,34
 Sp-393,Split II,32,33.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-394,Split II,28,38.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-395,Split II,30,37.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-396,Split II,34,45.7,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-397,Split II,21,28.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-396,Split II,34,45.7,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,40
+Sp-397,Split II,21,28.4,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,33
 Sp-398,Split II,20,40.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-399,Split II,16,44.1,Male,0/1+,>=15 days,False,False,True,False,False,True,False,None,>75%,60
-Sp-400,Split II,14,52.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Sp-401,Split II,18,37.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-399,Split II,16,44.1,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,2
+Sp-400,Split II,14,52.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,59
+Sp-401,Split II,18,37.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,28
 Sp-402,Split II,34,42.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,10
-Sp-403,Split II,22,28.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Sp-404,Split II,38,25.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-403,Split II,22,28.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,22
+Sp-404,Split II,38,25.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,17
 Sp-405,Split II,32,46.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-406,Split II,9,40.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Sp-407,Split II,40,48.2,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Sp-408,Split II,41,31.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-409,Split II,21,43.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
+Sp-408,Split II,41,31.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Sp-409,Split II,21,43.9,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,<=75%,8
 Sp-410,Split II,37,52.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Sp-411,Split II,22,43.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Sp-412,Split II,33,42.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Sp-412,Split II,33,42.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,35
 Sp-413,Split II,17,40.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,17
-Sp-414,Split II,11,30.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
-Sp-415,Split II,28,49.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-1,Control,26,47.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-2,Control,43,44.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Co-3,Control,23,45.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-4,Control,22,41.6,Male,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Sp-414,Split II,11,30.3,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,R,>75%,28
+Sp-415,Split II,28,49.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,41
+Co-1,Control,26,47.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,27
+Co-2,Control,43,44.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,17
+Co-3,Control,23,45.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,55
+Co-4,Control,22,41.6,Male,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,18
 Co-5,Control,51,38.4,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-6,Control,32,40.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-7,Control,23,43.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-8,Control,32,27.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-9,Control,42,46.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-10,Control,39,56.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-11,Control,43,43.6,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-10,Control,39,56.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,27
+Co-11,Control,43,43.6,Female,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,40
 Co-12,Control,18,38.7,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-13,Control,43,39.5,Female,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,52
-Co-14,Control,30,45.1,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-14,Control,30,45.1,Female,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,8
 Co-15,Control,33,38.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,21
-Co-16,Control,46,46.1,Male,0/1+,<15 days,False,False,True,False,True,False,True,H,>75%,60
-Co-17,Control,40,39.4,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-16,Control,46,46.1,Male,0/1+,<15 days,False,False,False,True,False,False,True,H,>75%,29
+Co-17,Control,40,39.4,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,43
 Co-18,Control,36,51.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-19,Control,9,51.5,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-20,Control,31,38.4,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-21,Control,23,40.0,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-21,Control,23,40.0,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,55
 Co-22,Control,40,40.4,Male,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-23,Control,43,40.4,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,<=75%,60
+Co-23,Control,43,40.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,46
 Co-24,Control,29,34.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-25,Control,24,33.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-25,Control,24,33.4,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,9
 Co-26,Control,50,48.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Co-27,Control,25,47.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-28,Control,18,47.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-29,Control,22,40.0,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-30,Control,26,52.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-31,Control,22,40.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-31,Control,22,40.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
 Co-32,Control,42,46.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-33,Control,7,31.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-34,Control,22,39.0,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-34,Control,22,39.0,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,53
 Co-35,Control,31,39.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-36,Control,34,40.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,20
 Co-37,Control,51,31.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,12
 Co-38,Control,50,45.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-39,Control,14,47.2,Female,0/1+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-40,Control,10,35.7,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-41,Control,32,33.0,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-42,Control,24,35.5,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-43,Control,18,43.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Co-44,Control,32,36.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-41,Control,32,33.0,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,50
+Co-42,Control,24,35.5,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,16
+Co-43,Control,18,43.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,4
+Co-44,Control,32,36.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,8
 Co-45,Control,35,39.6,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-46,Control,22,33.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Co-47,Control,25,53.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-48,Control,23,41.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-46,Control,22,33.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,46
+Co-47,Control,25,53.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,25
+Co-48,Control,23,41.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Co-49,Control,27,48.0,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,28
-Co-50,Control,38,43.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-50,Control,38,43.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,9
 Co-51,Control,20,40.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-52,Control,25,39.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Co-53,Control,27,35.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-53,Control,27,35.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,58
 Co-54,Control,32,37.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Co-55,Control,35,33.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,9
 Co-56,Control,55,33.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-57,Control,39,54.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-58,Control,39,42.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-57,Control,39,54.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,2
+Co-58,Control,39,42.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,24
 Co-59,Control,29,50.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-60,Control,21,35.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,17
-Co-61,Control,26,32.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-62,Control,24,34.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-61,Control,26,32.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,43
+Co-62,Control,24,34.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,49
 Co-63,Control,37,37.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-64,Control,13,40.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-65,Control,39,39.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-66,Control,31,35.5,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,<=75%,60
-Co-67,Control,40,41.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-67,Control,40,41.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,38
 Co-68,Control,24,41.6,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,<=75%,48
-Co-69,Control,22,45.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-69,Control,22,45.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,28
 Co-70,Control,27,50.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,59
-Co-71,Control,27,38.1,Female,0/1+,<15 days,False,False,True,False,False,True,True,None,>75%,60
-Co-72,Control,41,48.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-73,Control,41,40.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-74,Control,54,30.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-71,Control,27,38.1,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,50
+Co-72,Control,41,48.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,<=75%,52
+Co-73,Control,41,40.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,50
+Co-74,Control,54,30.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,1
 Co-75,Control,26,52.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,3
 Co-76,Control,-5,55.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
 Co-77,Control,27,44.5,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-78,Control,35,41.1,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-79,Control,40,38.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-78,Control,35,41.1,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,<=75%,10
+Co-79,Control,40,38.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,21
 Co-80,Control,35,37.5,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,37
 Co-81,Control,26,48.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,15
 Co-82,Control,52,40.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-83,Control,20,51.4,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-83,Control,20,51.4,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,14
 Co-84,Control,29,40.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-85,Control,20,37.8,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-86,Control,32,36.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-85,Control,20,37.8,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,10
+Co-86,Control,32,36.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,56
 Co-87,Control,50,35.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-88,Control,30,43.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-89,Control,30,32.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-88,Control,30,43.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Co-89,Control,30,32.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,39
 Co-90,Control,12,35.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-91,Control,29,49.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-92,Control,45,34.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-91,Control,29,49.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,25
+Co-92,Control,45,34.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,56
 Co-93,Control,29,46.1,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,H+R,>75%,42
 Co-94,Control,28,27.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-95,Control,45,49.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-96,Control,28,32.2,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-96,Control,28,32.2,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,8
 Co-97,Control,47,34.8,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-98,Control,17,44.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Co-99,Control,40,42.3,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-100,Control,51,46.3,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-101,Control,44,32.2,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-100,Control,51,46.3,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,48
+Co-101,Control,44,32.2,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,12
 Co-102,Control,11,38.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-103,Control,25,36.5,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-104,Control,29,33.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-105,Control,44,44.4,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-104,Control,29,33.3,Male,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,48
+Co-105,Control,44,44.4,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,10
 Co-106,Control,17,46.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Co-107,Control,20,38.3,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,26
 Co-108,Control,14,50.4,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-109,Control,23,35.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-110,Control,18,50.2,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
+Co-110,Control,18,50.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,31
 Co-111,Control,50,44.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-112,Control,25,32.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,43
 Co-113,Control,40,53.4,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-114,Control,32,37.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-115,Control,32,48.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-116,Control,25,41.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-117,Control,41,42.9,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-118,Control,34,46.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Co-116,Control,25,41.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,29
+Co-117,Control,41,42.9,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,47
+Co-118,Control,34,46.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,45
 Co-119,Control,33,46.0,Female,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
 Co-120,Control,25,38.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Co-121,Control,27,44.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-121,Control,27,44.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Co-122,Control,39,43.5,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-123,Control,35,41.9,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-123,Control,35,41.9,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,2
 Co-124,Control,33,39.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-125,Control,23,41.9,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-125,Control,23,41.9,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,44
 Co-126,Control,54,53.3,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-127,Control,26,38.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-127,Control,26,38.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,46
 Co-128,Control,32,48.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-129,Control,30,36.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-130,Control,54,34.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-131,Control,29,61.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-132,Control,28,44.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-133,Control,33,44.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-134,Control,24,44.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-135,Control,33,49.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-136,Control,59,43.2,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-137,Control,35,45.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-133,Control,33,44.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
+Co-134,Control,24,44.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,24
+Co-135,Control,33,49.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,17
+Co-136,Control,59,43.2,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,25
+Co-137,Control,35,45.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,46
 Co-138,Control,35,33.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-139,Control,24,46.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-139,Control,24,46.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,31
 Co-140,Control,52,39.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-141,Control,54,44.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-141,Control,54,44.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,50
 Co-142,Control,42,29.4,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
 Co-143,Control,40,44.6,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-144,Control,29,25.9,Female,0/1+,<15 days,False,False,True,False,False,True,True,None,>75%,60
+Co-144,Control,29,25.9,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,22
 Co-145,Control,37,38.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Co-146,Control,22,29.4,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,59
-Co-147,Control,19,44.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-147,Control,19,44.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,5
 Co-148,Control,15,41.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-149,Control,37,35.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-150,Control,16,49.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-151,Control,26,34.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-150,Control,16,49.8,Male,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,42
+Co-151,Control,26,34.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,8
 Co-152,Control,31,20.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Co-153,Control,43,43.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-154,Control,25,29.0,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-153,Control,43,43.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,28
+Co-154,Control,25,29.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,57
 Co-155,Control,45,34.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-156,Control,43,37.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-157,Control,20,31.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-157,Control,20,31.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,57
 Co-158,Control,45,37.3,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-159,Control,29,31.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-159,Control,29,31.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,38
 Co-160,Control,26,41.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-161,Control,29,32.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-161,Control,29,32.5,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Co-162,Control,32,40.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
-Co-163,Control,27,48.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-163,Control,27,48.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,41
 Co-164,Control,22,45.6,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-165,Control,23,40.0,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-166,Control,34,34.1,Male,2+/3+,<15 days,False,False,True,False,False,True,True,None,>75%,60
+Co-166,Control,34,34.1,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,34
 Co-167,Control,30,41.5,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-168,Control,38,36.0,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-169,Control,33,41.8,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,8
 Co-170,Control,33,29.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-171,Control,39,45.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-172,Control,48,40.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-173,Control,49,54.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-174,Control,47,49.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-173,Control,49,54.9,Male,2+/3+,>=15 days,False,False,False,True,False,False,True,None,>75%,6
+Co-174,Control,47,49.0,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,38
 Co-175,Control,42,44.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-176,Control,56,39.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-177,Control,37,35.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-178,Control,36,46.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-178,Control,36,46.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,44
 Co-179,Control,58,39.0,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-180,Control,1,48.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,59
 Co-181,Control,30,43.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-182,Control,46,43.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,26
 Co-183,Control,43,44.4,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-184,Control,62,34.5,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-184,Control,62,34.5,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,56
 Co-185,Control,33,33.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Co-186,Control,27,33.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-187,Control,28,47.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,23
-Co-188,Control,36,34.4,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
+Co-188,Control,36,34.4,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,<=75%,52
 Co-189,Control,51,35.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-190,Control,51,44.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-191,Control,31,38.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Co-192,Control,35,38.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
+Co-190,Control,51,44.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,41
+Co-191,Control,31,38.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H+R,>75%,15
+Co-192,Control,35,38.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H+R,>75%,48
 Co-193,Control,25,37.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-194,Control,26,25.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-195,Control,44,34.2,Female,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-194,Control,26,25.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,40
+Co-195,Control,44,34.2,Female,2+/3+,>=15 days,False,False,False,True,False,False,True,None,>75%,16
 Co-196,Control,50,48.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-197,Control,24,37.0,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,37
 Co-198,Control,35,28.1,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-199,Control,29,33.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-200,Control,42,42.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-201,Control,28,42.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-200,Control,42,42.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,46
+Co-201,Control,28,42.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,2
 Co-202,Control,10,38.6,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-203,Control,44,36.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-204,Control,29,31.4,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,<=75%,30
 Co-205,Control,30,42.9,Female,0/1+,<15 days,False,False,True,False,False,True,True,None,>75%,60
-Co-206,Control,37,45.9,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-207,Control,36,48.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-206,Control,37,45.9,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,46
+Co-207,Control,36,48.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,39
 Co-208,Control,37,33.3,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-209,Control,13,49.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,49
-Co-210,Control,38,40.1,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,R,<=75%,60
+Co-210,Control,38,40.1,Male,2+/3+,>=15 days,False,False,False,True,False,False,True,R,<=75%,1
 Co-211,Control,10,40.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-212,Control,41,46.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-213,Control,45,37.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-214,Control,16,26.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Co-212,Control,41,46.3,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,22
+Co-213,Control,45,37.0,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,29
+Co-214,Control,16,26.4,Female,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,14
 Co-215,Control,36,45.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,48
 Co-216,Control,44,42.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
 Co-217,Control,27,38.2,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
@@ -1042,200 +1042,200 @@ Co-218,Control,40,44.5,Female,0/1+,<15 days,False,False,True,False,True,False,Fa
 Co-219,Control,0,45.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-220,Control,45,30.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-221,Control,32,40.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,54
-Co-222,Control,29,25.7,Female,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-223,Control,43,39.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-224,Control,52,38.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-225,Control,38,43.7,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-226,Control,51,33.5,Male,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-222,Control,29,25.7,Female,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,1
+Co-223,Control,43,39.7,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,21
+Co-224,Control,52,38.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,57
+Co-225,Control,38,43.7,Female,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,4
+Co-226,Control,51,33.5,Male,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,3
 Co-227,Control,14,37.8,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,49
 Co-228,Control,40,19.6,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-229,Control,30,44.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,31
-Co-230,Control,23,39.9,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-230,Control,23,39.9,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,34
 Co-231,Control,10,41.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-232,Control,39,30.8,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-233,Control,42,43.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-232,Control,39,30.8,Female,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,20
+Co-233,Control,42,43.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,23
 Co-234,Control,47,51.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-235,Control,46,39.3,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-235,Control,46,39.3,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,59
 Co-236,Control,23,44.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-237,Control,47,34.8,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-238,Control,48,40.0,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,15
-Co-239,Control,29,30.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,H+R,>75%,60
+Co-239,Control,29,30.5,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,H+R,>75%,38
 Co-240,Control,32,45.6,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,23
-Co-241,Control,21,41.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-241,Control,21,41.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Co-242,Control,49,32.6,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-243,Control,15,35.3,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Co-244,Control,38,40.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-243,Control,15,35.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,57
+Co-244,Control,38,40.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,57
 Co-245,Control,25,46.5,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,15
 Co-246,Control,19,50.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-247,Control,10,39.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
 Co-248,Control,30,31.6,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,35
-Co-249,Control,17,42.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Co-249,Control,17,42.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,10
 Co-250,Control,33,52.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Co-251,Control,52,30.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-252,Control,34,34.3,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,54
-Co-253,Control,55,44.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-253,Control,55,44.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,14
 Co-254,Control,21,41.5,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-255,Control,17,37.0,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,33
-Co-256,Control,20,41.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-256,Control,20,41.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,52
 Co-257,Control,31,46.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-258,Control,63,39.9,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-258,Control,63,39.9,Female,0/1+,>=15 days,False,False,False,True,False,False,True,None,>75%,34
 Co-259,Control,13,39.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-260,Control,39,44.3,Female,0/1+,>=15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Co-261,Control,24,38.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-260,Control,39,44.3,Female,0/1+,>=15 days,False,False,False,True,False,False,False,H+R,>75%,24
+Co-261,Control,24,38.7,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,42
 Co-262,Control,29,47.9,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-263,Control,18,53.7,Male,0/1+,<15 days,False,False,True,False,False,True,True,None,>75%,60
 Co-264,Control,42,34.7,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-265,Control,31,32.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-266,Control,45,42.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-267,Control,34,32.1,Female,0/1+,>=15 days,False,False,True,False,False,True,False,None,>75%,60
+Co-266,Control,45,42.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,32
+Co-267,Control,34,32.1,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,9
 Co-268,Control,10,32.0,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,39
-Co-269,Control,45,27.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-269,Control,45,27.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,16
 Co-270,Control,9,38.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-271,Control,10,40.3,Male,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,3
-Co-272,Control,21,37.1,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-273,Control,22,49.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-274,Control,48,49.1,Male,0/1+,>=15 days,False,False,True,False,True,False,False,H,>75%,60
+Co-272,Control,21,37.1,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
+Co-273,Control,22,49.5,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,20
+Co-274,Control,48,49.1,Male,0/1+,>=15 days,False,False,False,True,False,False,False,H,>75%,10
 Co-275,Control,30,53.0,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,56
-Co-276,Control,46,40.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-276,Control,46,40.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,58
 Co-277,Control,25,48.2,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-278,Control,36,42.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-278,Control,36,42.5,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,22
 Co-279,Control,37,41.9,Male,2+/3+,<15 days,False,False,True,False,True,False,True,R,>75%,60
 Co-280,Control,40,37.5,Female,0/1+,<15 days,False,False,True,False,False,True,True,None,>75%,60
 Co-281,Control,27,25.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-282,Control,28,44.6,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-283,Control,29,48.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,H,<=75%,60
 Co-284,Control,13,30.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-285,Control,31,40.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-286,Control,28,46.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,R,<=75%,60
+Co-285,Control,31,40.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,8
+Co-286,Control,28,46.9,Male,0/1+,>=15 days,False,False,False,True,False,False,False,R,<=75%,9
 Co-287,Control,39,38.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Co-288,Control,33,48.3,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-289,Control,47,39.6,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-289,Control,47,39.6,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,53
 Co-290,Control,33,37.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,3
 Co-291,Control,26,48.6,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-292,Control,33,34.4,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-293,Control,40,35.8,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-292,Control,33,34.4,Male,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,30
+Co-293,Control,40,35.8,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,13
 Co-294,Control,12,34.7,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-295,Control,24,33.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-296,Control,24,41.5,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-295,Control,24,33.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,21
+Co-296,Control,24,41.5,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,41
 Co-297,Control,37,37.2,Female,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-298,Control,38,43.7,Male,0/1+,>=15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-299,Control,33,29.2,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-300,Control,3,33.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
-Co-301,Control,13,40.8,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-302,Control,29,50.1,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-301,Control,13,40.8,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,48
+Co-302,Control,29,50.1,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,22
 Co-303,Control,26,43.0,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-304,Control,32,36.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,37
 Co-305,Control,27,30.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-306,Control,50,36.3,Male,0/1+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-307,Control,6,40.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-308,Control,35,25.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-308,Control,35,25.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,43
 Co-309,Control,42,32.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-310,Control,40,35.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
 Co-311,Control,41,38.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-312,Control,43,40.1,Female,0/1+,<15 days,False,False,True,False,True,False,False,R,>75%,60
+Co-312,Control,43,40.1,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,18
 Co-313,Control,25,36.5,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,11
 Co-314,Control,19,43.8,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-315,Control,9,41.3,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-316,Control,28,38.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-317,Control,23,44.7,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-316,Control,28,38.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Co-317,Control,23,44.7,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,18
 Co-318,Control,45,44.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-319,Control,29,31.1,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,34
-Co-320,Control,20,40.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-320,Control,20,40.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,23
 Co-321,Control,18,46.3,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-322,Control,55,47.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-322,Control,55,47.4,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,55
 Co-323,Control,32,42.9,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,10
-Co-324,Control,23,39.0,Male,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-324,Control,23,39.0,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,53
 Co-325,Control,33,43.2,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-326,Control,54,45.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-327,Control,28,41.3,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-327,Control,28,41.3,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,39
 Co-328,Control,40,42.0,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-329,Control,46,38.9,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-330,Control,10,31.8,Male,2+/3+,<15 days,False,False,True,False,True,False,True,H,>75%,60
-Co-331,Control,25,39.4,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-329,Control,46,38.9,Female,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,9
+Co-330,Control,10,31.8,Male,2+/3+,<15 days,False,False,False,True,False,False,True,H,>75%,31
+Co-331,Control,25,39.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,7
 Co-332,Control,44,36.1,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,17
 Co-333,Control,24,36.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-334,Control,37,49.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,48
-Co-335,Control,23,46.7,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-335,Control,23,46.7,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,37
 Co-336,Control,27,29.5,Female,0/1+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Co-337,Control,25,33.4,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-337,Control,25,33.4,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,18
 Co-338,Control,39,38.1,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
-Co-339,Control,34,36.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-340,Control,33,42.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-339,Control,34,36.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,4
+Co-340,Control,33,42.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,23
 Co-341,Control,61,32.4,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-342,Control,52,46.7,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-343,Control,9,40.2,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-342,Control,52,46.7,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,52
+Co-343,Control,9,40.2,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,9
 Co-344,Control,27,38.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-345,Control,60,40.4,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-346,Control,25,37.8,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-347,Control,56,27.3,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-347,Control,56,27.3,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,5
 Co-348,Control,27,40.6,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,<=75%,12
 Co-349,Control,29,38.4,Male,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,1
-Co-350,Control,42,34.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-351,Control,31,47.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-350,Control,42,34.3,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,15
+Co-351,Control,31,47.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,25
 Co-352,Control,38,44.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-353,Control,50,56.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Co-353,Control,50,56.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,38
 Co-354,Control,41,45.9,Male,0/1+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-355,Control,34,36.3,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-356,Control,51,34.6,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
+Co-356,Control,51,34.6,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,53
 Co-357,Control,42,37.3,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-358,Control,24,36.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
-Co-359,Control,55,41.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-358,Control,24,36.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,40
+Co-359,Control,55,41.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,59
 Co-360,Control,39,30.5,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-361,Control,30,44.7,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-362,Control,9,41.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-363,Control,16,44.0,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-362,Control,9,41.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,22
+Co-363,Control,16,44.0,Male,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,26
 Co-364,Control,52,33.1,Female,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
 Co-365,Control,52,42.1,Female,2+/3+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-366,Control,33,48.9,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-367,Control,12,34.9,Female,0/1+,<15 days,False,False,True,False,True,False,True,R,>75%,60
+Co-366,Control,33,48.9,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,44
+Co-367,Control,12,34.9,Female,0/1+,<15 days,False,False,False,True,False,False,True,R,>75%,47
 Co-368,Control,19,34.7,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-369,Control,13,45.1,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-370,Control,13,34.2,Female,2+/3+,<15 days,False,False,False,True,False,False,False,R,>75%,36
-Co-371,Control,55,39.0,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-371,Control,55,39.0,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,>75%,21
 Co-372,Control,56,50.1,Female,2+/3+,<15 days,False,False,False,True,False,False,False,H,>75%,41
-Co-373,Control,19,34.8,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-373,Control,19,34.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,54
 Co-374,Control,32,50.5,Female,2+/3+,>=15 days,False,False,False,True,False,False,False,None,>75%,48
 Co-375,Control,17,38.3,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-376,Control,32,33.2,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-376,Control,32,33.2,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,13
 Co-377,Control,51,44.4,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-378,Control,44,41.2,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,<=75%,60
-Co-379,Control,41,40.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-378,Control,44,41.2,Female,0/1+,<15 days,False,False,False,True,False,False,True,None,<=75%,24
+Co-379,Control,41,40.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,41
 Co-380,Control,30,35.5,Female,0/1+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-381,Control,47,41.2,Male,2+/3+,<15 days,False,False,True,False,False,True,False,None,>75%,60
-Co-382,Control,39,27.1,Female,0/1+,>=15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-381,Control,47,41.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,21
+Co-382,Control,39,27.1,Female,0/1+,>=15 days,False,False,False,True,False,False,False,None,>75%,18
 Co-383,Control,37,41.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
-Co-384,Control,31,48.9,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-384,Control,31,48.9,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
 Co-385,Control,36,29.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,<=75%,60
 Co-386,Control,35,37.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-387,Control,26,34.8,Female,2+/3+,<15 days,False,False,True,False,True,False,True,R,>75%,60
+Co-387,Control,26,34.8,Female,2+/3+,<15 days,False,False,False,True,False,False,True,R,>75%,31
 Co-388,Control,23,30.7,Female,0/1+,<15 days,False,False,True,False,True,False,True,R,>75%,60
 Co-389,Control,21,27.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,8
 Co-390,Control,21,32.8,Female,0/1+,<15 days,False,False,True,False,True,False,True,H,>75%,60
-Co-391,Control,30,38.9,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-392,Control,28,48.0,Male,0/1+,<15 days,False,False,True,False,True,False,True,R,>75%,60
+Co-391,Control,30,38.9,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,21
+Co-392,Control,28,48.0,Male,0/1+,<15 days,False,False,False,True,False,False,True,R,>75%,17
 Co-393,Control,25,30.6,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
 Co-394,Control,24,42.4,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-395,Control,35,41.9,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-396,Control,48,51.4,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-395,Control,35,41.9,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,49
+Co-396,Control,48,51.4,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,24
 Co-397,Control,32,44.2,Male,2+/3+,>=15 days,False,False,True,False,True,False,False,None,<=75%,60
-Co-398,Control,31,44.6,Male,2+/3+,>=15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-398,Control,31,44.6,Male,2+/3+,>=15 days,False,False,False,True,False,False,True,None,>75%,50
 Co-399,Control,21,45.0,Female,2+/3+,<15 days,False,False,True,False,True,False,False,R,>75%,60
 Co-400,Control,29,34.5,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-401,Control,46,36.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-401,Control,46,36.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,47
 Co-402,Control,44,47.8,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-403,Control,43,27.2,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-404,Control,43,36.1,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-403,Control,43,27.2,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,2
+Co-404,Control,43,36.1,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,42
 Co-405,Control,37,31.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,3
-Co-406,Control,37,42.0,Female,0/1+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-406,Control,37,42.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,>75%,30
 Co-407,Control,35,37.8,Female,0/1+,<15 days,False,False,False,True,False,False,False,None,<=75%,8
-Co-408,Control,27,44.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-409,Control,33,39.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,H+R,>75%,60
+Co-408,Control,27,44.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,52
+Co-409,Control,33,39.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,H+R,>75%,7
 Co-410,Control,34,30.5,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,12
-Co-411,Control,39,30.8,Male,0/1+,<15 days,False,False,True,False,True,False,False,H,>75%,60
+Co-411,Control,39,30.8,Male,0/1+,<15 days,False,False,False,True,False,False,False,H,>75%,58
 Co-412,Control,33,40.5,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-413,Control,56,35.5,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
+Co-413,Control,56,35.5,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,26
 Co-414,Control,18,37.0,Female,0/1+,<15 days,False,False,False,True,False,False,False,R,>75%,28
-Co-415,Control,41,46.6,Female,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
-Co-416,Control,32,45.4,Male,2+/3+,<15 days,False,False,True,False,True,False,True,None,>75%,60
-Co-417,Control,32,52.2,Male,2+/3+,<15 days,False,False,True,False,True,False,False,None,>75%,60
+Co-415,Control,41,46.6,Female,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,15
+Co-416,Control,32,45.4,Male,2+/3+,<15 days,False,False,False,True,False,False,True,None,>75%,14
+Co-417,Control,32,52.2,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,48
 Co-418,Control,23,38.4,Male,2+/3+,<15 days,False,False,False,True,False,False,False,None,>75%,59
